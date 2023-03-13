@@ -3,7 +3,7 @@
 This is a simple snake game I made, and I am now turning it into a project! Right now, there is only a minimal snake game, but I will keep working on it!
 
 ## Instalation
-Do not download the source code, because you have to setup python. Instead download the `Snek.zip` which has an executable instead of a python file. Both work, but the Executable is reccomended.
+Do not download the source code, because you have to setup python. Instead download the `Snek.exe` which is an executable instead of a python file. Both work, but the Executable is reccomended.
 
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/98992380/224581712-c4278d62-d2c7-4490-812b-883b63882bf3.png)
